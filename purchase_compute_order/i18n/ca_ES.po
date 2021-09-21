@@ -124,7 +124,7 @@ msgstr "Calcula quantitats per la comanda"
 #. module: purchase_compute_order
 #: model_terms:ir.ui.view,arch_db:purchase_compute_order.view_computed_purchase_order_form
 msgid "Compute the optimal purchase quantities                                 of selected products according to the                                 objective."
-msgstr "Calcu"
+msgstr "Calculeu les quantitats òptimes de compra                                   de productes seleccionats segons                                l'objectiu."
 
 #. module: purchase_compute_order
 #: model:ir.actions.act_window,name:purchase_compute_order.action_view_computed_purchase_order_tree
